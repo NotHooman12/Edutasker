@@ -1,0 +1,19 @@
+{
+  "name": "edutasker",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
+  "vite": {
+    "publicDir": "public",
+    "build": {
+      "outDir": "dist",
+      "emptyOutDir": true
+    }
+  }
+}
