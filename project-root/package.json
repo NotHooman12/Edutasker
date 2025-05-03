@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "vite build --emptyOutDir",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "vite": {
+    "root": "./public"
+  }
+}
